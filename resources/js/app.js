@@ -1,3 +1,5 @@
+import './bootstrap';
+
 function openNav() {
     document.getElementById("overlayNav").style.width = "100%";
 }
