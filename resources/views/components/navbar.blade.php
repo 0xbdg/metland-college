@@ -16,7 +16,7 @@
     </div>
     <div class="hidden md:flex gap-5">
         <a href="/" class="text-white no-underline text-base">Home</a>
-        <a href="#" class="text-white no-underline text-base">Course</a>
+        <a href="#" class="text-white no-underline text-base">Review</a>
         <a href="/blog" class="text-white no-underline text-base">Blog</a>
         <a href="/contact" class="text-white no-underline text-base">Contact</a>
         <a href="javascript:void(0);" class="md:hidden" onclick="openNav()">
