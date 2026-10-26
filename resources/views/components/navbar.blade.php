@@ -9,7 +9,7 @@
 </div>
 
 
-<nav class="fixed top-0 left-0 w-full z-50 bg-primary/75 backdrop-blur-md shadow-lg shadow-black/10 border-b border-white/10 transition-all duration-300">
+<nav class="top-0 left-0 w-full z-50 bg-primary/75 backdrop-blur-md shadow-lg shadow-black/10 border-b border-white/10 transition-all duration-300">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex items-center justify-between h-16 sm:h-20">
 
@@ -23,8 +23,9 @@
 
             <div class="hidden md:flex items-center gap-8">
                 <a href="/" class="text-white/90 hover:text-white font-medium text-sm lg:text-base transition-colors relative py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-0.5 after:bg-accent after:transition-all hover:after:w-full">Home</a>
-                <a href="#" class="text-white/90 hover:text-white font-medium text-sm lg:text-base transition-colors relative py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-0.5 after:bg-accent after:transition-all hover:after:w-full">Review</a>
+                <a href="/reviews" class="text-white/90 hover:text-white font-medium text-sm lg:text-base transition-colors relative py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-0.5 after:bg-accent after:transition-all hover:after:w-full">Reviews</a>
                 <a href="/blog" class="text-white/90 hover:text-white font-medium text-sm lg:text-base transition-colors relative py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-0.5 after:bg-accent after:transition-all hover:after:w-full">Blog</a>
+                <a href="/gallery" class="text-white/90 hover:text-white font-medium text-sm lg:text-base transition-colors relative py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-0.5 after:bg-accent after:transition-all hover:after:w-full">Gallery</a>
                 <a href="/contact" class="text-white/90 hover:text-white font-medium text-sm lg:text-base transition-colors relative py-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-0.5 after:bg-accent after:transition-all hover:after:w-full">Contact</a>
             </div>
 

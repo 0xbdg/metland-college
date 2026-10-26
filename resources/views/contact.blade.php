@@ -1,7 +1,7 @@
 <x-base>
 <x-navbar />
 <section class="px-4 md:px-8 mt-6">
-   <div class="max-w-6xl max-lg:max-w-2xl mx-auto">
+   <div class="max-w-8xl max-lg:max-w-2xl mx-auto">
       <div class="max-w-3xl mb-12 md:mb-16">
          <h2 class="text-3xl font-bold text-slate-900 mb-6 md:text-4xl">
             Contact us
